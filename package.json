@@ -1,0 +1,12 @@
+{
+  "name": "cs-router",
+  "version": "1.0.0",
+  "description": "a simple to use client side router using query (look like Vue router but frameworkless)",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [
+    "router"
+  ],
+  "author": "leonllrmc",
+  "license": "ISC"
+}
